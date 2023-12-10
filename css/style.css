@@ -3,5 +3,8 @@ body{
 }
 
 .eikona {
-	width: 5%;
+	width: 100%;
+}
+h1{
+	text-align: center;
 }
