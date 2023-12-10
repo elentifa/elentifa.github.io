@@ -3,8 +3,11 @@ body{
 }
 
 .eikona {
-	width: 100%;
+	width: 150%;
 }
 h1{
 	text-align: center;
+}
+.eleni{
+	text-align: right;
 }
